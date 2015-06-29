@@ -5,4 +5,4 @@
 - PHP 5.x
 - MySQL 5.x
 
-# Always look for an elegant soltion, not just a working one.
+"Always look for an elegant solution, not just a working one." - ghadaffi
