@@ -1,2 +1,8 @@
-# pacionthesis
-This project is for I.T Special Project in STI College Cubao, Philippines for the sole purpose of academic shit.
+
+# Project Details
+
+- Metro-UI CSS 3.0 Go here for documentation : https://metroui.org.ua/
+- PHP 5.x
+- MySQL 5.x
+
+# Always look for an elegant soltion, not just a working one.
